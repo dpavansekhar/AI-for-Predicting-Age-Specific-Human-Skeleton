@@ -1,2 +1,1 @@
-# AI Bone Age Prediction Using Machine Learning
-
+# AI for Predicting Age Specific Human Skeleton
