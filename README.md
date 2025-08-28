@@ -68,7 +68,7 @@ To ensure **trustworthy AI in healthcare**, we apply **Grad-CAM** to visualize w
 
 Example visualization:  
 
-![Grad-CAM Example](<img width="1120" height="397" alt="B0" src="https://github.com/user-attachments/assets/a248ebb2-bd6b-48d6-8ce0-be48085c5945" />)
+![Grad-CAM Example](<img width="1120" height="397" alt="Xception_reg" src="https://github.com/user-attachments/assets/bc9c20aa-9f4b-49b4-a68e-a4853f28b586" />)
 
 ---
 
