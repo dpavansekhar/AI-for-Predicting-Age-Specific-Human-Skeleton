@@ -8,16 +8,15 @@
 ---
 
 ## 📖 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Models Implemented](#models-implemented)
-- [Grad-CAM Explainability](#grad-cam-explainability)
-- [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
+- [🔎 Overview](#overview)
+- [📂 Dataset](#dataset)
+- [🧠 Models Implemented](#models-implemented)
+- [🎨  Grad-CAM Explainability](#grad-cam-explainability)
+- [📊 Results](#results)
+- [⚙️ Installation](#installation)
 - [Project Structure](#project-structure)
-- [Future Work](#future-work)
-- [References](#references)
+- [🔮 Future Work](#future-work)
+- [📚 References](#references)
 
 ---
 
