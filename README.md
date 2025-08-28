@@ -68,7 +68,7 @@ To ensure **trustworthy AI in healthcare**, we apply **Grad-CAM** to visualize w
 
 Example visualization:  
 
-![Grad-CAM Example](<img width="1120" height="397" alt="Xception_reg" src="https://github.com/user-attachments/assets/bc9c20aa-9f4b-49b4-a68e-a4853f28b586" />)
+![Grad-CAM Example](https://github.com/user-attachments/assets/bc9c20aa-9f4b-49b4-a68e-a4853f28b586)
 
 ---
 
@@ -81,7 +81,6 @@ Example visualization:
 | ResNet101        | 86.95%               | 9.56            | Stable, deep model |
 | Xception         | 86.58%               | 6.82            | Good trade-off between accuracy and efficiency |
 
-*(Fill with your experimental results from testing notebooks)*  
 
 ---
 
