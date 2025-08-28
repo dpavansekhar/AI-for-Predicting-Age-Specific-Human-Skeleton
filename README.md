@@ -159,3 +159,8 @@ pip install -r requirements.txt
 3. ResNet Paper: He et al., 2016
 4. Xception Paper: Chollet, 2017
 5. Grad-CAM Paper: Selvaraju et al., 2017
+
+---
+
+## Author - [Dogga Pavan Sekhar](https://www.linkedin.com/in/dogga-pavan-sekhar-006a83252/)
+#### For any doubts, contact doggapavansekhar@gmail.com
